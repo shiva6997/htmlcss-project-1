@@ -1,0 +1,238 @@
+body{
+    margin: 0px;
+    background-color: black;
+     scroll-behavior: smooth;
+}option{
+border: none;
+text-decoration: none;
+background-color: black;
+color: white;
+}select{
+    border: none;
+    background: none;
+    text-decoration: none;
+    color: white;
+}
+ul,li,a{
+    display: inline;
+    word-spacing: 40px;
+    color: white;
+    font-size: 20px;
+    border-bottom: none;
+}#number1{
+    color:white;
+    text-decoration: none;
+}#number1:hover{
+    color: aqua;
+}
+.imge-2{
+    margin-left: 900px;
+    margin-top: 100px;
+}.first-tilel{
+  margin-top: -300px;
+  position: absolute;
+  margin-top:-1100px;
+}
+#name-1{
+    font-size: 110px;
+    font-family: sans-serif;
+}
+#name-2{
+    font-size: 150px;
+    font-family: "Kumar One Outline", system-ui;
+    font-style:oblique;
+}.imge-5{
+    margin-top: 70px;
+}
+#imge-slide{
+    border: 1px solid aqua;
+    border-radius: 50%;
+    margin-top: 100px;
+    margin-left: 200px;
+}.title-two{
+  margin-left: 500px;
+  margin-top: -200px;
+}#next::after{
+    content: "About Cpmpany";
+    color: aqua;
+}#read{
+    outline: none;
+    font-size: 20px;
+    text-decoration: none;
+    margin-left: 400px;
+    
+}.webapp{
+    margin-left: 200px;
+    margin-top: 50px;
+}.project-count{
+    word-spacing: 350px;
+    margin-left: 250px;
+    margin-top: 200px;
+
+}.numbers{
+    word-spacing: 300px;
+    color: aqua;
+    margin-left: 150px;
+    margin-top: 100px;
+}.leter-prop{
+    word-spacing: 400px;
+    font-family: sans-serif;
+    font-size: 20px;
+    margin-left: 130px;
+}#loade{
+    margin-left: 550px;
+   
+}.loade-2{
+margin-top: 100px;
+
+}.titling{
+    font-size: 50px;
+    margin-left: 500px;
+}.dom-1{
+    margin-top: 100px;
+    width: 1000px;
+    justify-content: center;
+    text-align: center;
+    margin-left: 200px;
+    font-size: 20px;
+}.card-titl{
+    color: black;
+    text-align: center;
+    margin-top: 50px;
+}#development-1{
+    margin-left: 50px;
+}.icaones-1{
+    margin-left: 250px;
+    margin-top: -50px;}
+.first-image{
+    display: flex;
+    gap: 40px;
+    margin-left: 30px;
+}.second-image{
+    display: flex;
+    gap: 30px;
+    margin-top: 30px;
+    margin-left: 350px;
+}.maine-container{
+    margin-top: 200px;
+}.card-title{
+    color: black;
+    margin-top: 30px;
+    margin-left: 25px;
+    color: white;
+}
+.left{
+    margin-left: 190px;
+    margin-top: 100px;
+}.icone-three{
+    margin-left: -500px;
+    margin-top: 100px;
+}.clicke{
+    margin-left: 1000px;
+    padding-left: 10px;
+}#imge-slid{
+    border: 1px solid aqua;
+    border-radius: 50%;
+    margin-left: 500px;
+    
+}.forthe-container{
+    margin-top: 100px;
+    margin-left: 100px;
+}.pharagrap{
+    font-size: 40px;
+    margin-top: 60px;
+    padding: 10px;
+border-bottom:  1px solid aqua;
+}.ceo{
+    margin-left: 500px;
+    margin-top: 40px;
+}.star-icone{
+    margin-left: 400px;
+    margin-top: -80px;
+}.right-table{
+    margin-top: 100px;
+    margin-left: 60px;
+}.phara-1{
+    width: 500px;
+    margin-top: 40px;
+}.border-1{
+    border-bottom:  1px solid gray;
+    width: 400px;
+    padding-bottom: 30px;
+}.phara-2{
+    width: 500px;
+    margin-top: 40px;
+    color: gray;
+}#pagerelode{
+text-decoration: none;
+font-size: 20px;
+align-items: center;
+color: aqua;
+}.next-page{
+    margin-left: 550px;
+    margin-top: 50px;
+    border: 1px solid aqua;
+    width: 130px;
+    height: 30px;
+    background-color: black;
+    justify-items: center;
+}.parent-1{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin-top: 100px;
+    gap: 70px;
+ margin-left:50px;
+ padding-bottom: 50px;
+}.chilld{
+    border: 1px solid white;
+    height: 250px;
+    width: 250px;
+}.custom{
+   
+   color:white;
+   border-radius: 20px;
+   text-transform: capitalize;
+   margin-top: -230px;
+   margin-left: 10px;
+   transition: 2s;
+   opacity: 0;
+}#bet-1{
+    border-radius: 10px;
+    padding: 5px;
+    background: grey;
+    border: none;
+    color:aqua;
+    margin-left: 70px;
+} 
+.custom:hover{
+    opacity: 1;
+}.logine-1{
+position: absolute;
+margin-left: 600px;
+margin-top: 50px;
+background-color: darkgrey;
+border-radius: 20px;
+padding: 10px;
+opacity: 1;
+}#inpute-1{
+    border-radius: 20px;
+    border: none;
+    background: white;
+    color: black;
+    padding: 5px;
+}#read1{
+   margin-left: 800px;
+}.main-div{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-top: 100px;
+    background: gainsboro;
+    color: black;
+    padding: 10px;
+}.appse{
+    margin-left: 1250px;
+    margin-top: -100px;
+    
+}
+
+    
